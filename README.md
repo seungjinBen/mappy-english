@@ -2,10 +2,21 @@
 
 > 파리의 카페, 런던의 지하철, 니스의 해변. **실제 여행지 상황에서 영어 회화를 연습하고 AI가 즉시 평가해주는 언어학습 서비스** 
 
+## 📦 Repositories
+
+| 레포 | 설명 | 스택 |
+| --- | --- | --- |
+| [MappyServer](https://github.com/seungjinBen/MappyServer) | 백엔드 API 서버 | Java · Spring Boot |
+| [MappyAI](https://github.com/seungjinBen/MappyAI) | 프론트엔드 웹 | TypeScript · Next.js |
+| [MappyEnglishTIL](https://github.com/seungjinBen/MappyEnglishTIL) | 프로젝트 진행과정 |  |
+
+## 개발 기간 및 역할
+
 | 항목 | 내용 |
 |------|------|
-| **개발 기간** | 2025.09 ~ 2026.03 (7개월) |
-| **팀 구성** | 1인 풀스택 |
+| 기간 | 2026.03 ~ 2026.10 |
+| 팀 구성 | FE/BE 1인 (풀스택) |
+| 담당 | 기획·설계·백엔드·프론트엔드·인프라 전 영역 |
 | **서비스 URL** | https://mappyenglish.com |
 
 ---
